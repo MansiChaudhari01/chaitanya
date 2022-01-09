@@ -1,0 +1,170 @@
+@media only screen and (max-width: 1000px)  {
+body {
+    position: absolute; overflow-y: hidden; width: 100%;
+    overflow-wrap:initial;
+
+    }
+  }
+.img{
+    display: flex;
+    
+}
+
+.twitter{
+    display: flex;
+    background-color: white;
+    
+}
+
+.Second-image{
+  position: absolute;
+  top: 240px;
+  left:250px
+}
+
+.Third-image{
+position: absolute;
+top: 30px;
+left:800px;
+}
+
+.First-image{
+object-fit: cover
+}
+
+.Text{
+    width: 100%;
+    justify-content: first baseline;
+    font-weight: bolder;
+    position: absolute;
+    top: 90px;
+    left: 800px;
+    font-size: 2cm;
+}
+ 
+.Text-second{
+    display: fix;
+    width: 100%;
+    font-weight: bolder;
+    position: absolute;
+    top: 200px;
+    left: 800px;
+    font-size: 1cm;
+
+}
+
+.Mail-button{
+    height: 30px;
+    width: 300px;
+    margin: 0 auto;
+    background: transparent;
+    border-radius: 80px ;
+    border:thin solid gray;
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 100px;
+    padding-top: 15px;
+
+}
+
+.Apple-button{
+    height: 30px;
+    width: 300px;
+    margin: 0 auto;
+    background: transparent;
+    border-radius: 80px ;
+    border:thin solid gray;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 100px;
+    padding-top: 15px;
+
+}
+
+
+.Sign-button{
+    width: 100%;
+    font-weight: bolder;
+    position: absolute;
+    top: 540px;
+    left: 1060px;
+    font-size: 0.5cm;
+
+}
+
+.Phone-button{
+    height: 30px;
+    width: 300px;
+    margin: 0 auto;
+    background: blue;
+    border-radius: 80px ;
+    border:thin solid blue;
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-top: 15px;
+}
+
+.link{
+    color: white
+}
+
+.Icon-link{
+    color: black;
+}
+.Text-third{
+    display: flex;
+    width: 100%;
+    font-weight: bolder;
+    position: absolute;
+    top: 378px;
+    left: 980px;
+    font-size: 0.5cm;
+
+}
+
+.policy{
+    display: flex;
+    width: 100%;
+    font-weight: lighter;
+    position: absolute;
+    top: 450px;
+    left: 850px;
+    font-size: 0.3cm;
+    max-block-size: 400px;
+    
+
+}
+
+.policy.a{
+    color: blue;
+}
+
+.Text-fourth{
+    display: flex;
+    width: 100%;
+    font-weight: bolder;
+    position: absolute;
+    top: 540px;
+    left: 850px;
+    font-size: 0.5cm;
+
+}
+
+.footer ul{
+   
+  text-align: center;
+  padding:0px;
+  margin-bottom: 0px;
+ list-style: none;
+
+}
+
+.footer ul li{
+   
+    display: inline-block;
+    padding: 0 15px;
+  
+  }
+
